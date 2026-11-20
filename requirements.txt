@@ -1,0 +1,8 @@
+pymupdf>=2.1.0
+langchain-text-splitters
+sentence-transformers
+chromadb
+rank-bm25
+google-genai
+python-dotenv
+streamlit
